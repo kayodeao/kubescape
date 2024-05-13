@@ -48,7 +48,7 @@ KubeScape is a powerful tool for scanning Kubernetes clusters against various se
 
 1. **Install KubeScape on your local machine.** Follow the installation instructions provided in the [KubeScape repository](https://github.com/kubescape/kubescape/blob/master/docs/getting-started.md#run-your-first-scan).
 
-2. **Choose the security framework.** Decide which security framework you want to use for scanning your cluster. Options include CIS benchmarks, NIST standards, or custom security policies.
+2. **Choose the security framework.** Decide which security framework you want to use for scanning your cluster. Options include CIS benchmarks, NIST standards, etc.
 
 3. **Run the KubeScape scan command.** Execute the following command, specifying the namespaces you want to include in the scan:
 
