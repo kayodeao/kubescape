@@ -56,7 +56,10 @@ KubeScape is a powerful tool for scanning Kubernetes clusters against various se
     kubescape scan --namespace <namespace> --framework <security-framework>
     ```
 
-    Replace `<namespace>` with the namespace of your deployed application and `<security-framework>` with the desired security standard.
+    Replace `<namespace>` with the namespace of your deployed application and `<security-framework>` with the desired security standard i.e. nsa, mitre, etc.
+   ![](scan0.png)
+
+   ![](scan1.png)
 
 5. **Analyze the scan results.** Review the output provided by KubeScape. Address any security issues or vulnerabilities discovered during the scan.
 
