@@ -1,7 +1,7 @@
 # Creating a Kubernetes Cluster on Linode and Performing Security Scanning with KubeScape
 
 ## Introduction
-This documentation outlines the process of creating a Kubernetes cluster on Linode and conducting security scanning using KubeScape. The document assumes familiarity with Linode, Kubernetes basics, and Docker containers.
+This documentation outlines the process of creating a Kubernetes cluster on Linode and conducting security scanning using KubeScape. The document assumes familiarity with Linode, Kubernetes basics, and Docker containers. Kubescape can also on other cloud managed kubernetes clusters i.e. GKE, EKS, AKS.
 
 ### Prerequisites
 - Linode account
